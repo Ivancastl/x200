@@ -12,7 +12,7 @@ def buscar_y_mostrar_coincidencias(file_path, keyword):
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
             if keyword.lower() in line.lower():
-                print(f"Coincidencia en {file_path}: {line.strip()}")  # Muestra la línea con la coincidencia
+                print(line.strip())  # ✅ Ya no muestra la ruta
                 count += 1
     return count
 
