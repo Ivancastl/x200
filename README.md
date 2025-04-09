@@ -22,7 +22,7 @@ git clone https://github.com/Ivancastl/x200.git
 ### **Paso 2:**
 Visualiza la carpeta data
 ```bash
-Dentro de la carpeta data mete los archivos txt
+Dentro, integra los archivos txt
 ```
 
 ### **Paso 3:**
@@ -39,6 +39,3 @@ python leer200.py
 
 ### **Paso 5:**
 Introduce la palabra clave que deseas buscar cuando se te solicite en la consola.
-```bash
-ivan y obtendrás resultados.
-```
