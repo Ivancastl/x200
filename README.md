@@ -20,9 +20,9 @@ git clone https://github.com/Ivancastl/x200.git
 ```
 
 ### **Paso 2:**
-Visualiza la carpeta data
+Crea una carpeta dentro del proyecto de nombre data
 ```bash
-Dentro, integra los archivos txt
+Dentro de esta carpeta ingresa los archivos a leer txt
 ```
 
 ### **Paso 3:**
