@@ -42,6 +42,3 @@ Introduce la palabra clave que deseas buscar cuando se te solicite en la consola
 ```bash
 ivan y obtendrás resultados.
 ```
-
-
-
